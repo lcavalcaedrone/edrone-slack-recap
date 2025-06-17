@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/recap.js": {
+      "schedule": "0 21 * * *"
+    }
+  }
+}

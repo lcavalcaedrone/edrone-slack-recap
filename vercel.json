@@ -1,8 +1,9 @@
 {
-  "functions": {
-    "api/recap.js": {
+  "cron": [
+    {
+      "path": "/api/recap",
       "schedule": "0 22 * * *",
       "enabled": true
     }
-  }
+  ]
 }
